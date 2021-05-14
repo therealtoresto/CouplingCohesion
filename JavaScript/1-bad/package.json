@@ -1,0 +1,26 @@
+{
+  "name": "couplingcohesion",
+  "version": "0.0.1",
+  "description": "coupling and cohesion example",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealtoresto/CouplingCohesion.git"
+  },
+  "keywords": [
+    "coupling",
+    "cohesion"
+  ],
+  "author": "therealtoresto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therealtoresto/CouplingCohesion/issues"
+  },
+  "homepage": "https://github.com/therealtoresto/CouplingCohesion#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
